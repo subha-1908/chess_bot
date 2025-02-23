@@ -1,1 +1,1 @@
-# chess_bot
+This Chess Bot is a Python-based program that allows users to play chess against a computer opponent. Instead of using artificial intelligence or machine learning, the bot determines its moves by analyzing all possible legal moves and selecting the best one based on predefined criteria. It ensures a challenging yet predictable gameplay experience by prioritizing material advantage and move safety.# chess_bot
